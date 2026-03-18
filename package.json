@@ -1,0 +1,15 @@
+{
+  "name": "milo-server-cloner",
+  "version": "1.0.0",
+  "description": "Milo Server Cloner - Discord server cloner tool by ofcyouryadav",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ofcyouryadav",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.4"
+  }
+}
