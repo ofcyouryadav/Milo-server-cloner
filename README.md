@@ -67,4 +67,3 @@ npm start
 > **Developer:** Ofcyouryadav
 > **Tool:** Milo Server Cloner
 > **Support:** [discord.gg/4season](https://discord.gg/4season)
-1363548442449674482](https://discord.gg/zenkai-headquarters-6-1363548442449674482)
